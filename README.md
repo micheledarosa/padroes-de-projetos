@@ -34,4 +34,4 @@ Para executar os testes e verificar o comportamento dos diferentes padrões impl
 
 ## Resultado dos testes ✅
 
-![Imgur](https://i.imgur.com/GaRNOBv.png)
+![Imgur](https://i.imgur.com/VlZW1wW.png)
